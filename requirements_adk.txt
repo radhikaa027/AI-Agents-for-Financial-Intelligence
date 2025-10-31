@@ -1,0 +1,14 @@
+# Google Generative AI for Gemini API
+google-generativeai
+
+# Financial Data APIs
+yfinance
+newsapi-python
+
+# Data Processing (used by yfinance)
+pandas
+numpy
+
+# Utilities
+python-dotenv
+requests

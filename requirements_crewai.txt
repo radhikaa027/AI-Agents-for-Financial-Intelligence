@@ -1,0 +1,19 @@
+# CrewAI Framework 
+crewai
+crewai-tools
+
+# Financial Data APIs
+yfinance 
+newsapi-python 
+
+# Data Processing (Python 3.12 compatible)
+pandas
+numpy
+
+# Output Formatting
+markdown
+jinja2
+
+# Utilities
+python-dotenv
+requests

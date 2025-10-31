@@ -1,0 +1,30 @@
+2025-09-24 10:52:49 - INFO - ADK Investment Analysis System - Initiated
+2025-09-24 10:52:53 - INFO - Fetching stock data for AAPL
+2025-09-24 10:52:55 - INFO - ✅ Successfully retrieved data for AAPL
+2025-09-24 10:52:55 - INFO - Starting analysis for: Apple Inc. (AAPL)
+2025-09-24 10:52:55 - INFO - --- Starting Parallel Data Gathering ---
+2025-09-24 10:52:55 - INFO - AGENT: Starting quantitative analysis for AAPL...
+2025-09-24 10:52:55 - INFO - Fetching stock data for AAPL
+2025-09-24 10:52:55 - INFO - AGENT: Starting market research for Apple Inc....
+2025-09-24 10:52:55 - INFO - Fetching news for Apple Inc. (AAPL)
+2025-09-24 10:52:56 - INFO - ✅ Retrieved 10 articles for Apple Inc.
+2025-09-24 10:52:58 - INFO - ✅ Successfully retrieved data for AAPL
+2025-09-24 10:52:58 - INFO - Calculating technical indicators for AAPL
+2025-09-24 10:52:58 - INFO - ✅ Technical indicators calculated for AAPL
+2025-09-24 10:53:01 - INFO - AGENT: Market research for Apple Inc. completed successfully.
+2025-09-24 10:53:09 - INFO - AGENT: Quantitative analysis for AAPL completed successfully.
+2025-09-24 10:53:09 - INFO - --- Parallel Data Gathering Complete ---
+2025-09-24 10:53:09 - INFO - --- Starting Sequential Analysis & Synthesis ---
+2025-09-24 10:53:09 - INFO - AGENT: Starting risk assessment...
+2025-09-24 10:53:23 - INFO - AGENT: Risk assessment completed successfully.
+2025-09-24 10:53:23 - INFO - AGENT: Starting final report synthesis...
+2025-09-24 10:53:40 - INFO - AGENT: Draft report generated successfully.
+2025-09-24 10:53:40 - INFO - AGENT: Starting compliance validation and fact-checking...
+2025-09-24 10:53:55 - INFO - AGENT: Compliance validation completed successfully.
+2025-09-24 10:53:55 - INFO - --- Sequential Analysis & Synthesis Complete ---
+2025-09-24 10:53:55 - INFO - --- Running Custom Tool ---
+2025-09-24 10:53:55 - INFO - CUSTOM TOOL: Calculating proprietary investment score...
+2025-09-24 10:53:55 - INFO - CUSTOM TOOL: Investment score calculated: {'total_score': 7.4, 'recommendation': 'Buy', 'component_scores': {'valuation': 4, 'profitability': 10, 'sentiment': 9}}
+2025-09-24 10:53:55 - INFO - --- Custom Tool Execution Complete ---
+2025-09-24 10:53:55 - INFO - 💾 Report saved to: outputs/investment_report_aapl.md
+2025-09-24 10:53:55 - INFO - 🎉 Workflow finished successfully!
